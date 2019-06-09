@@ -49,16 +49,6 @@ Visit https://intern-hub.github.io/frontend/ on one of the two supported web bro
 
 <p style="page-break-after: always;">&nbsp;</p>
 
-## Contributing
-
-Clone the repo, then go into the cloned directory and run 
-
-```yarn install``` 
-
-```yarn run start```
-
-Have fun developing at ```localhost:3000```!
-
 ## Known Bugs
 
 * The scraper can return irrelevant information about location while scraping. This occurs because while most companies follow similar protocols on how they list internships, some companies use slightly different protocols.
