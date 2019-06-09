@@ -21,7 +21,6 @@ Surya Krishnan - Business Analyst</p>
 
 InternHub is a web application that automatically aggregates information about companies and the internships they offer, so that students can have an easier time finding the internships of their dreams. What makes InternHub different, though, is that our internship listings are maintained automatically, rather than by humans. InternHub works by scraping the Internet for companies and the internships on their websites. InternHub also maintains an internal database of companies and positions for internships, which the scraper consistently updates.
 
-
 ## Login Credentials
 
 The details of the InternHub test account are listed here:
